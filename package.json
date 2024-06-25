@@ -1,0 +1,22 @@
+{
+  "name": "java-script-revision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgDivyansh/Java-Script-Revision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgDivyansh/Java-Script-Revision/issues"
+  },
+  "homepage": "https://github.com/AgDivyansh/Java-Script-Revision#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
