@@ -15,3 +15,10 @@ console.log(`because it can not be converted into number ${c}`);
 // "33abc" => Nan
 // true => 1
 // false => 0
+console.log(1+"2");
+console.log("1" +2);
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+
+
+
